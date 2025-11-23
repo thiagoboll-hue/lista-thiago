@@ -9,18 +9,14 @@ https://stmv1.srvstm.com/comedia24h/comedia24h/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pQWbRbh.png" group-title="Filmes 24h",Terror 24h
 https://stmv1.srvstm.com/terror24h/terror24h/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FBkZqM.png" group-title="Desenhos 24h",Desenhos Clássicos 24h
 https://stmv1.srvstm.com/desenhos/desenhos/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FfSYZB.png" group-title="Música 24h",Hits Internacionais 24h
 https://stmv1.srvstm.com/musicahits/musicahits/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NH2Ky8Z.png" group-title="Infantil 24h",Infantil 24h
 https://stmv1.srvstm.com/infantil/infantil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c2wXCn.png" group-title="Novelas 24h",Novelas Antigas 24h
 https://stmv1.srvstm.com/tvnovelas/tvnovelas/playlist.m3u8
@@ -39,6 +35,11 @@ https://stmv1.srvstm.com/novelaslatinas/novelaslatinas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5BcgA0u.png" group-title="Novelas 24h",Novelas Românticas 24h
 https://stmv1.srvstm.com/romance/romance/playlist.m3u8
+
+######################################
+##########      TELECINE     #########
+######################################
+
 #EXTINF:-1 tvg-id="telecinepremium.br" tvg-logo="https://i.imgur.com/aqmQG5S.png" group-title="Telecine",Telecine Premium
 http://URL_DO_CANAL
 
@@ -51,7 +52,7 @@ http://URL_DO_CANAL
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-logo="https://i.imgur.com/KYW8uM4.png" group-title="Telecine",Telecine Fun
 http://URL_DO_CANAL
 
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-logo="https://i.imgur.com/KWY7J00.png" group-title="Telecine",Telecine Touch
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-logo="https://i.imgur.com/KWY7J00.png" group-title="Telecine",Telecine Touch
 http://URL_DO_CANAL
 
 #EXTINF:-1 tvg-id="telecinecult.br" tvg-logo="https://i.imgur.com/r1yyED6.png" group-title="Telecine",Telecine Cult
