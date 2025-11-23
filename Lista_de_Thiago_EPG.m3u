@@ -39,3 +39,20 @@ https://stmv1.srvstm.com/novelaslatinas/novelaslatinas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5BcgA0u.png" group-title="Novelas 24h",Novelas Românticas 24h
 https://stmv1.srvstm.com/romance/romance/playlist.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-logo="https://i.imgur.com/aqmQG5S.png" group-title="Telecine",Telecine Premium
+http://URL_DO_CANAL
+
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-logo="https://i.imgur.com/XUOFlCL.png" group-title="Telecine",Telecine Pipoca
+http://URL_DO_CANAL
+
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-logo="https://i.imgur.com/2H3bNfD.png" group-title="Telecine",Telecine Action
+http://URL_DO_CANAL
+
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-logo="https://i.imgur.com/KYW8uM4.png" group-title="Telecine",Telecine Fun
+http://URL_DO_CANAL
+
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-logo="https://i.imgur.com/KWY7J00.png" group-title="Telecine",Telecine Touch
+http://URL_DO_CANAL
+
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-logo="https://i.imgur.com/r1yyED6.png" group-title="Telecine",Telecine Cult
+http://URL_DO_CANAL
