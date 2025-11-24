@@ -1,28 +1,37 @@
 #EXTM3U url-tvg="https://epg.blue/epg.xml"
 
+#FILMES 24H - AÇÃO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZWt8YJq.png" group-title="Filmes 24h",Ação 24h
 https://stmv1.srvstm.com/acao24h/acao24h/playlist.m3u8
 
+#FILMES 24H - COMÉDIA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kR9VIGI.png" group-title="Filmes 24h",Comédia 24h
 https://stmv1.srvstm.com/comedia24h/comedia24h/playlist.m3u8
 
+#FILMES 24H - TERROR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pQWbRbh.png" group-title="Filmes 24h",Terror 24h
 https://stmv1.srvstm.com/terror24h/terror24h/playlist.m3u8
 
+#FILMES 24H - SUSPENSE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FBkZqM.png" group-title="Filmes 24h",Suspense 24h
 https://stmv1.srvstm.com/suspense/suspense/playlist.m3u8
 
+#FILMES 24H - MIX HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q8n6NoW.png" group-title="Filmes 24h",Filmes Mix HD
 https://stmv1.srvstm.com/filmes/filmes/playlist.m3u8
 
+#FILMES 24H - CINEMA AÇÃO HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2SgO0B2.png" group-title="Filmes 24h",Cinema Ação HD
 https://stmv1.srvstm.com/acao/acao/playlist.m3u8
 
+#FILMES 24H - NOSTALGIA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rtXwPo1.png" group-title="Filmes 24h",Filmes Nostalgia
 https://stmv1.srvstm.com/classicos/classicos/playlist.m3u8
 
+#FILMES 24H - CINEMA 24H (VÁRIOS GÊNEROS)
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jksjz1Y.png" group-title="Filmes 24h",Cinema 24h (Vários Gêneros)
 https://stmv1.srvstm.com/cine/cine/playlist.m3u8
 
+#FILMES 24H - CINE FAMÍLIA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PluTO29.png" group-title="Filmes 24h",Cine Família
 https://stmv1.srvstm.com/familia/familia/playlist.m3u8
